@@ -6,7 +6,7 @@
 
 ## Hands-On:
 
-> Open Example 02 Tutorial: [https://filipematias23.github.io/FIELDimageR-Workshop-1/](https://filipematias23.github.io/FIELDimageR-Workshop-1/)
+> Open Example 01 Tutorial: [https://fieldimager.cnpgc.embrapa.br/course.html](https://fieldimager.cnpgc.embrapa.br/course.html)
 
 > Launch the Binder button below to open a virtual RStudio (running this tutorial online):
 
